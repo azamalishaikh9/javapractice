@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="371bddc2-fce2-4ca0-8599-04a099940cf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayIntoSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AverageOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConcatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DuplicateNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EvenOddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LimitNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMinNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberStartsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RepeatedChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SecondLowHighNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SquareOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StreamPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/AbstratFactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/RoundedRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/RoundedShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/RoundedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/abstfactory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/single/SingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/single/SinglePatternDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2TZNDYOBs0V3djaQcsdFRTyBmvU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;public&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="abstfactory" />
+      <recent name="factory" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayIntoSubArray">
+    <configuration name="AbstratFactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstfactory.AbstratFactoryPatternDemo" />
+      <module name="javaprac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayIntoSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayIntoSubArray" />
+      <module name="javaprac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.FactoryPatternDemo" />
+      <module name="javaprac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondLowHighNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondLowHighNumbers" />
+      <module name="javaprac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SinglePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="single.SinglePatternDemo" />
+      <module name="javaprac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayIntoSubArray" />
+        <item itemvalue="Application.SecondLowHighNumbers" />
+        <item itemvalue="Application.AbstratFactoryPatternDemo" />
+        <item itemvalue="Application.SinglePatternDemo" />
+        <item itemvalue="Application.FactoryPatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="371bddc2-fce2-4ca0-8599-04a099940cf9" name="Changes" comment="" />
+      <created>1691246528210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691246528210</updated>
+      <workItem from="1691246529295" duration="78000" />
+      <workItem from="1691246645503" duration="3448000" />
+      <workItem from="1691399691892" duration="1198000" />
+      <workItem from="1691472313700" duration="5902000" />
+      <workItem from="1691640691546" duration="771000" />
+      <workItem from="1691734820492" duration="1374000" />
+      <workItem from="1691809489407" duration="67000" />
+      <workItem from="1692084344954" duration="3253000" />
+      <workItem from="1692110015967" duration="1304000" />
+      <workItem from="1692166838290" duration="2231000" />
+      <workItem from="1692173576518" duration="2408000" />
+      <workItem from="1692334781351" duration="2761000" />
+      <workItem from="1692417772876" duration="3000000" />
+      <workItem from="1692441159848" duration="3122000" />
+      <workItem from="1692516148509" duration="148000" />
+      <workItem from="1692762193197" duration="5782000" />
+      <workItem from="1692777549098" duration="2680000" />
+      <workItem from="1692798861349" duration="64000" />
+      <workItem from="1692958480748" duration="1675000" />
+      <workItem from="1693141404068" duration="31000" />
+      <workItem from="1694416571841" duration="1718000" />
+      <workItem from="1695617427847" duration="530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RepeatedChar.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/RepeatedChar.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ArrayIntoSubArray.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
