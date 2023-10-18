@@ -1,4 +1,4 @@
-package abstfactory;
+package designpatterns.abstfactory;
 
 /**
  * @author Azam

@@ -1,4 +1,4 @@
-package single;
+package designpatterns.single;
 
 /**
  * @author Azam

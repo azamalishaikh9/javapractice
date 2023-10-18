@@ -1,9 +1,9 @@
-package abstfactory;
+package designpatterns.abstfactory;
 
 /**
  * @author Azam
  */
-public class ShapeFactory extends AbstractFactory{
+public class RoundedShapeFactory extends AbstractFactory{
 
     @Override
     Shape getShape(String shape) {
@@ -12,9 +12,9 @@ public class ShapeFactory extends AbstractFactory{
         }
         
         if(shape.equalsIgnoreCase("Rectangle")){
-            return new Rectangle();
+            return new RoundedRectangle();
         } else if (shape.equalsIgnoreCase("Square")) {
-            return new Square();
+            return new RoundedSquare();
         }
         return null;
     }
