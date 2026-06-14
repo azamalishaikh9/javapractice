@@ -14,7 +14,7 @@ public class Palindrome {
         for (int i = str.length() - 1; i >= 0; i--) {
             reverse = reverse + str.charAt(i);
         }
-        if(str.equals(reverse)){
+        if (str.equals(reverse)) {
             System.out.println("Entered string is " + str + " palindrome " + reverse);
         } else {
             System.out.println("Entered string is not palindrome");

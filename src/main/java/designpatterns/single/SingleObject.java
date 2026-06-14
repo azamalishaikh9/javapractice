@@ -6,13 +6,14 @@ package designpatterns.single;
 public class SingleObject {
     private static final SingleObject instance = new SingleObject();
 
-    private SingleObject(){}
+    private SingleObject() {
+    }
 
-    public static SingleObject getInstance(){
+    public static SingleObject getInstance() {
         return instance;
     }
 
-    public void showMessage(){
+    public void showMessage() {
         System.out.println("Hello Single");
     }
 }

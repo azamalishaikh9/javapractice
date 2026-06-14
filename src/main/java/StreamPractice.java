@@ -40,7 +40,7 @@ public class StreamPractice {
         List<Employee> highestSalaryEmployees = employees
                 .stream()
                 .filter(emp -> emp.getSalary() == highestSalary)
-                .collect(Collectors.toList());
+                .toList();
 
         highestSalaryEmployees.stream().forEach(System.out::println);
 
@@ -67,7 +67,7 @@ public class StreamPractice {
         System.out.println(63 + " " + employees);
 
         HashMap<Integer, Employee> empMap = new HashMap<>();
-        for(Employee emp : employees){
+        for (Employee emp : employees) {
             empMap.put(emp.getId(), emp);
         }
 

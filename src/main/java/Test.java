@@ -1,7 +1,7 @@
 /**
  * @author Azam
  */
-public class Test{
+public class Test {
 
     public static void main(String[] args) {
 
@@ -15,21 +15,22 @@ public class Test{
     }
 }
 
-class TestBase{
-    void m1(){
+class TestBase {
+    void m1() {
         System.out.println("TestBase : Print m1() without parameter");
     }
-    void m1(String str){
+
+    void m1(String str) {
         System.out.println("TestBase : Print m1() with String parameter");
     }
 }
 
-class Tests extends TestBase{
-//    void get(Integer num){
+class Tests extends TestBase {
+    //    void get(Integer num){
 //
 //    }
     @Override
-    void m1(){
+    void m1() {
         System.out.println("Test : Print m1() without parameter");
     }
 }

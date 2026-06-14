@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class SortListByLength {
 
     public static void main(String[] args) {
-        List<String> list = Arrays.asList("this","is","a","list");
+        List<String> list = Arrays.asList("this", "is", "a", "list");
 
         List<String> strings = list.stream().sorted(Comparator.comparingInt(String::length)).collect(Collectors.toList());
 

@@ -12,12 +12,12 @@ public class ArrayIntoSubArray {
     }
 
     private static void printSubArray(int[][] splitedArray) {
-        for(int[] subArray : splitedArray){
-            if(subArray == null){
+        for (int[] subArray : splitedArray) {
+            if (subArray == null) {
                 break;
             }
             System.out.print("[ ");
-            for(int num: subArray){
+            for (int num : subArray) {
                 System.out.print(num + " ");
             }
             System.out.println("]");
@@ -39,7 +39,7 @@ public class ArrayIntoSubArray {
 
             subArrays[subArrayIndex][currentSubArraySize] = num;
             currentSubArraySize++;
-            if(currentSubArraySize == 3){
+            if (currentSubArraySize == 3) {
                 subArrayIndex++;
             }
         }

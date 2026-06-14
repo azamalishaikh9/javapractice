@@ -19,7 +19,7 @@ public class SecondLowHighNumbers {
 
         Integer secondLow = numbers.stream().sorted().distinct().skip(1).findFirst().get();
 
-        System.out.println("Ajam"+10+20);
+        System.out.println("Ajam" + 10 + 20);
 
         System.out.println(secondLow);
     }

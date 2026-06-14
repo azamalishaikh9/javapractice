@@ -1,9 +1,7 @@
-import java.io.IOException;
-
 /**
  * @author Azam
  */
-public class Teacher extends Student{
+public class Teacher extends Student {
 
     @Override
     public void studentDetails() {
