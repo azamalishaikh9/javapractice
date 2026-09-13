@@ -14,5 +14,7 @@ public class BinaryOperatorExample {
 
         BinaryOperator<Integer> minBy = BinaryOperator.minBy(comparator);
         System.out.println("minBy: " + minBy.apply(2, 3));
+
+        System.out.println("binaryOperator: " + binaryOperator.apply(2, 3));
     }
 }

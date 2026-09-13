@@ -22,7 +22,6 @@ public class EvenOddNumbers {
 
         System.out.println(" ");
 
-
         //Odd Numbers
         numbers.stream().filter(num -> num % 2 == 1).forEach(num -> System.out.print(num + " "));
     }

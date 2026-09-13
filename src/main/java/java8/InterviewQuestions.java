@@ -12,7 +12,11 @@ public class InterviewQuestions {
         /* Find 1st Repeated char */
         String str = "Java stream API is very good.";
 
-        Character key = str.chars().mapToObj(ch -> (char) ch).filter(ch -> ch != ' ').collect(Collectors.groupingBy(ch -> ch, Collectors.counting()))
+        Character key = str
+                .chars()
+                .mapToObj(ch -> (char) ch)
+                .filter(ch -> ch != ' ')
+                .collect(Collectors.groupingBy(ch -> ch, Collectors.counting()))
                 .entrySet().stream().filter(entry -> entry.getValue() > 1).findFirst().get().getKey();
 
         System.out.println(key.toString());
@@ -27,7 +31,7 @@ public class InterviewQuestions {
         /* Print Prime numbers using Stream */
         IntStream.rangeClosed(1, 100)
                 .filter(n -> n > 1 && IntStream.rangeClosed(2, (int) Math.sqrt(n)).noneMatch(i -> n % i == 0))
-                .forEach(System.out::println);
+                .forEach(s -> System.out.print(s + " "));
 
     }
 }

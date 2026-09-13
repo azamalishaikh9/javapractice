@@ -75,7 +75,10 @@ public class Employees {
         //true
         System.out.println(optionalDepartment.isPresent());
 
-        //Concatenate all department names into single string seperated by commas
+        //Department{deptId=1, name='HR'}
+        System.out.println(optionalDepartment.orElse(null));
+
+        //Concatenate all department names into single string separated by commas
         String departmentName = employee.getDepartments().stream().map(Department::getName).collect(Collectors.joining(", "));
 
         //HR, IT, Finance, HR, IT
@@ -143,8 +146,10 @@ public class Employees {
 
         Map<String, Long> collectByDept = employee.getDepartments().stream().collect(Collectors.groupingBy(Department::getName, Collectors.counting()));
 
-        System.out.println(collectByDept);
+        //{Finance=1, HR=2, IT=1}
+        System.out.println("149" + collectByDept);
 
+        //HR=2
         collectByDept.entrySet().stream().max(Map.Entry.comparingByValue()).ifPresent(System.out::println);
 
 
