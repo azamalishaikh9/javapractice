@@ -8,9 +8,6 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
-.idea
-.continue
-.slingshot
 *.iws
 *.iml
 *.ipr
@@ -39,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.slingshot/
+/.continue/
+/.idea/
